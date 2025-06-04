@@ -1,0 +1,14 @@
+torch
+torchvision
+torchaudio
+
+numpy
+tqdm
+
+transformers
+datasets
+accelerate
+gptqmodel
+optimum
+
+vllm
